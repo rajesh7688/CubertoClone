@@ -1,0 +1,21 @@
+
+.bounding{
+    width: fit-content;
+    /* background-color: #999; */
+    overflow: hidden;
+}
+
+.bounding .boundingelem{
+    transform: translateY(100%);
+}
+
+.bounding1{
+    width: fit-content;
+    /* background-color: #999; */
+    overflow: hidden;
+}
+
+.bounding1 .bounding1elem{
+    transform: translateY(-100%);
+}
+
